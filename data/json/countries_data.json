@@ -1,0 +1,182 @@
+[
+  {
+    "country": "Comoros",
+    "capital": "Washington",
+    "area": "319875 square kilometers",
+    "population": "91971427",
+    "official languages": "Bengali",
+    "rivers": "Increase River",
+    "most common animal": "Wolf"
+  },
+  {
+    "country": "Italy",
+    "capital": "London",
+    "area": "513489 square kilometers",
+    "population": "927440",
+    "official languages": "Arabic",
+    "rivers": ["Show River", "Story River", "Understand River"],
+    "most common animal": "Horse"
+  },
+  {
+    "country": "Mexico",
+    "capital": "Paris",
+    "area": "766045 square kilometers",
+    "population": "85910809",
+    "official languages": "Portuguese, English",
+    "rivers": "Over River",
+    "most common animal": "Giraffe"
+  },
+  {
+    "country": "Albania",
+    "capital": "Berlin",
+    "area": "766522 square kilometers",
+    "population": "80241206",
+    "official languages": "Arabic",
+    "rivers": "Or River",
+    "most common animal": "Cheetah"
+  },
+  {
+    "country": "Brasil",
+    "capital": "Rome",
+    "area": "291755 square kilometers",
+    "population": "52494447",
+    "official languages": "Russian, Japanese",
+    "rivers": ["Degree River", "Have River"],
+    "most common animal": "Wolf"
+  },
+  {
+    "country": "Iceland",
+    "capital": "Madrid",
+    "area": "255964 square kilometers",
+    "population": "33244074",
+    "official languages": ["Arabic", "Korean"],
+    "rivers": ["Finally River", "Old River", "Mother River"],
+    "most common animal": "Panther"
+  },
+  {
+    "country": "Spain",
+    "capital": "Vancouver",
+    "area": "770984 square kilometers",
+    "population": "65545853",
+    "official languages": "Russian, Arabic",
+    "rivers": "Edge River",
+    "most common animal": "Giraffe"
+  },
+  {
+    "country": "Egypt",
+    "capital": "Canberra",
+    "area": "304570 square kilometers",
+    "population": "28209629",
+    "official languages": "Russian",
+    "rivers": ["Administration River", "Future River", "Themselves River"],
+    "most common animal": "Elephant"
+  },
+  {
+    "country": "Niue",
+    "capital": "Tokyo",
+    "area": "639749 square kilometers",
+    "population": "92645542",
+    "official languages": ["French", "Hindi", "Portuguese"],
+    "rivers": ["Never River", "I River"],
+    "most common animal": "Bear"
+  },
+  {
+    "country": "Czech Republic",
+    "capital": "Beijing",
+    "area": "944717 square kilometers",
+    "population": "56842746",
+    "official languages": "Portuguese, Korean",
+    "rivers": ["Improve River", "Reduce River"],
+    "most common animal": "Kangaroo"
+  },
+  {
+    "country": "Thailand",
+    "capital": "Moscow",
+    "area": "586281 square kilometers",
+    "population": "68047559",
+    "official languages": "Arabic, English, Bengali",
+    "rivers": "Then River",
+    "most common animal": "Panda"
+  },
+  {
+    "country": "Grenada",
+    "capital": "New Delhi",
+    "area": "928618 square kilometers",
+    "population": "8576744",
+    "official languages": "Russian, Portuguese",
+    "rivers": ["So River", "Newspaper River", "Study River"],
+    "most common animal": "Panther"
+  },
+  {
+    "country": "Sri Lanka",
+    "capital": "Cairo",
+    "area": "51048 square kilometers",
+    "population": "27602266",
+    "official languages": ["English", "Hindi", "Italian"],
+    "rivers": ["Fish River", "Face River", "Focus River"],
+    "most common animal": "Cheetah"
+  },
+  {
+    "country": "Andorra",
+    "capital": "Brasilia",
+    "area": "142621 square kilometers",
+    "population": "35403358",
+    "official languages": "English",
+    "rivers": ["Major River", "Summer River"],
+    "most common animal": "Elephant"
+  },
+  {
+    "country": "Belarus",
+    "capital": "Bern",
+    "area": "473368 square kilometers",
+    "population": "55794020",
+    "official languages": "Spanish, Portuguese, Japanese",
+    "rivers": "Ability River",
+    "most common animal": "Panda"
+  },
+  {
+    "country": "Slovakia",
+    "capital": "Stockholm",
+    "area": "906160 square kilometers",
+    "population": "73646810",
+    "official languages": "Arabic, German",
+    "rivers": ["Every River", "Spend River"],
+    "most common animal": "Cheetah"
+  },
+  {
+    "country": "India",
+    "capital": "Oslo",
+    "area": "92017 square kilometers",
+    "population": "50171567",
+    "official languages": "Japanese",
+    "rivers": "Must River",
+    "most common animal": "Lion"
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "capital": "Helsinki",
+    "area": "992846 square kilometers",
+    "population": "72967512",
+    "official languages": "Spanish, Japanese",
+    "rivers": ["Blue River", "Gun River"],
+    "most common animal": "Lion"
+  },
+  {
+    "country": "Chile",
+    "capital": "Vienna",
+    "area": "715279 square kilometers",
+    "population": "94096041",
+    "official languages": "Japanese",
+    "rivers": ["Very River", "Exactly River"],
+    "most common animal": "Elephant"
+  },
+  {
+    "country": "Sweden",
+    "capital": "Lisbon",
+    "area": "900636 square kilometers",
+    "population": "51939440",
+    "official languages": "Mandarin, Spanish",
+    "rivers": ["Improve River", "You River"],
+    "most common animal": "Lion"
+  }
+]

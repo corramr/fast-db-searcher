@@ -1,0 +1,202 @@
+[
+  {
+    "car_name": "Vortex X1",
+    "manufacturer": "Aurora Motors",
+    "launch_year": 2022,
+    "engine_specification": "2.0L Turbocharged Inline-4, 250 HP",
+    "NCAP_global_rating": 5,
+    "top_speed": 240,
+    "fuel_consumption": "7.5L/100km",
+    "chassis_type": "Monocoque"
+  },
+  {
+    "car_name": "Titanium GT",
+    "manufacturer": "NexGen Automotive",
+    "launch_year": 2021,
+    "engine_specification": "3.5L V6 Hybrid, 320 HP",
+    "NCAP_global_rating": 5,
+    "top_speed": 260,
+    "fuel_consumption": "6.2L/100km",
+    "chassis_type": "Aluminum Space Frame"
+  },
+  {
+    "car_name": "Zephyr Q7",
+    "manufacturer": "Horizon Cars",
+    "launch_year": 2023,
+    "engine_specification": "1.8L Turbocharged Inline-4, 200 HP",
+    "NCAP_global_rating": 4,
+    "top_speed": 220,
+    "fuel_consumption": "6.8L/100km",
+    "chassis_type": "Steel Unibody"
+  },
+  {
+    "car_name": "Avalon S",
+    "manufacturer": "Pinnacle Vehicles",
+    "launch_year": 2020,
+    "engine_specification": "2.5L Inline-4, 180 HP",
+    "NCAP_global_rating": 4,
+    "top_speed": 200,
+    "fuel_consumption": "7.0L/100km",
+    "chassis_type": "Monocoque"
+  },
+  {
+    "car_name": "Nebula R5",
+    "manufacturer": "Pinnacle Vehicles",
+    "launch_year": 2024,
+    "engine_specification": "Electric, Dual Motor, 350 HP",
+    "NCAP_global_rating": 5,
+    "top_speed": 250,
+    "fuel_consumption": "18 kWh/100km",
+    "chassis_type": "Aluminum Unibody"
+  },
+  {
+    "car_name": "Ironclad T8",
+    "manufacturer": "Fortis Motors",
+    "launch_year": 2021,
+    "engine_specification": "4.0L V8, 450 HP",
+    "NCAP_global_rating": 5,
+    "top_speed": 300,
+    "fuel_consumption": "12.5L/100km",
+    "chassis_type": "Steel Ladder Frame"
+  },
+  {
+    "car_name": "Eclipse Z",
+    "manufacturer": "Solaris Automotive",
+    "launch_year": 2022,
+    "engine_specification": "1.5L Turbocharged Inline-3, 150 HP",
+    "NCAP_global_rating": 3,
+    "top_speed": 190,
+    "fuel_consumption": "5.5L/100km",
+    "chassis_type": "Steel Unibody"
+  },
+  {
+    "car_name": "Venture LX",
+    "manufacturer": "Terra Motors",
+    "launch_year": 2023,
+    "engine_specification": "2.4L Diesel Inline-4, 200 HP",
+    "NCAP_global_rating": 4,
+    "top_speed": 210,
+    "fuel_consumption": "6.0L/100km",
+    "chassis_type": "Monocoque"
+  },
+  {
+    "car_name": "Phantom X",
+    "manufacturer": "Eclipse Automotive",
+    "launch_year": 2024,
+    "engine_specification": "Electric, Single Motor, 220 HP",
+    "NCAP_global_rating": 5,
+    "top_speed": 200,
+    "fuel_consumption": "15 kWh/100km",
+    "chassis_type": "Aluminum Unibody"
+  },
+  {
+    "car_name": "Blitz S2",
+    "manufacturer": "Volt Motors",
+    "launch_year": 2020,
+    "engine_specification": "2.0L Turbocharged Inline-4, 270 HP",
+    "NCAP_global_rating": 5,
+    "top_speed": 250,
+    "fuel_consumption": "8.0L/100km",
+    "chassis_type": "Steel Unibody"
+  },
+  {
+    "car_name": "Cresta V",
+    "manufacturer": "Apex Cars",
+    "launch_year": 2021,
+    "engine_specification": "3.0L V6, 300 HP",
+    "NCAP_global_rating": 5,
+    "top_speed": 270,
+    "fuel_consumption": "9.5L/100km",
+    "chassis_type": "Aluminum Space Frame"
+  },
+  {
+    "car_name": "Orion P1",
+    "manufacturer": "Stellar Motors",
+    "launch_year": 2023,
+    "engine_specification": "1.6L Turbocharged Inline-4, 180 HP",
+    "NCAP_global_rating": 4,
+    "top_speed": 210,
+    "fuel_consumption": "6.3L/100km",
+    "chassis_type": "Monocoque"
+  },
+  {
+    "car_name": "Fury GT",
+    "manufacturer": "Dynamo Auto",
+    "launch_year": 2022,
+    "engine_specification": "5.0L V8, 500 HP",
+    "NCAP_global_rating": 4,
+    "top_speed": 320,
+    "fuel_consumption": "14.0L/100km",
+    "chassis_type": "Carbon Fiber Monocoque"
+  },
+  {
+    "car_name": "Mirage L",
+    "manufacturer": "EcoDrive",
+    "launch_year": 2021,
+    "engine_specification": "1.2L Inline-3, 90 HP",
+    "NCAP_global_rating": 3,
+    "top_speed": 160,
+    "fuel_consumption": "4.8L/100km",
+    "chassis_type": "Steel Unibody"
+  },
+  {
+    "car_name": "Titan X7",
+    "manufacturer": "Boulder Vehicles",
+    "launch_year": 2024,
+    "engine_specification": "3.0L Turbocharged V6, 350 HP",
+    "NCAP_global_rating": 5,
+    "top_speed": 280,
+    "fuel_consumption": "10.2L/100km",
+    "chassis_type": "Aluminum Unibody"
+  },
+  {
+    "car_name": "Aurora E",
+    "manufacturer": "GreenMotion",
+    "launch_year": 2023,
+    "engine_specification": "Electric, Single Motor, 150 HP",
+    "NCAP_global_rating": 4,
+    "top_speed": 180,
+    "fuel_consumption": "14 kWh/100km",
+    "chassis_type": "Steel Unibody"
+  },
+  {
+    "car_name": "Raptor S",
+    "manufacturer": "Falcon Auto",
+    "launch_year": 2022,
+    "engine_specification": "2.7L Turbocharged Inline-4, 310 HP",
+    "NCAP_global_rating": 5,
+    "top_speed": 260,
+    "fuel_consumption": "8.5L/100km",
+    "chassis_type": "Aluminum Space Frame"
+  },
+  {
+    "car_name": "Nova T",
+    "manufacturer": "Lunar Motors",
+    "launch_year": 2021,
+    "engine_specification": "1.4L Turbocharged Inline-4, 140 HP",
+    "NCAP_global_rating": 4,
+    "top_speed": 195,
+    "fuel_consumption": "5.9L/100km",
+    "chassis_type": "Steel Unibody"
+  },
+  {
+    "car_name": "Vortex R",
+    "manufacturer": "Aurora Motors",
+    "launch_year": 2024,
+    "engine_specification": "2.5L Turbocharged Inline-4, 300 HP",
+    "NCAP_global_rating": 5,
+    "top_speed": 270,
+    "fuel_consumption": "7.8L/100km",
+    "chassis_type": "Aluminum Unibody"
+  },
+  {
+    "car_name": "Eon Q",
+    "manufacturer": "Future Auto",
+    "launch_year": 2023,
+    "engine_specification": "Electric, Dual Motor, 400 HP",
+    "NCAP_global_rating": 5,
+    "top_speed": 250,
+    "fuel_consumption": "17 kWh/100km",
+    "chassis_type": "Carbon Fiber Monocoque"
+  }
+]

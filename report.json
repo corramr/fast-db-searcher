@@ -1,0 +1,152 @@
+[
+    {
+        "query": "What are the engine specifications for Vortex X1?",
+        "category": "cars",
+        "route": "cars"
+    },
+    {
+        "query": "What is the NCAP Global Rating for Zephyr Q7?",
+        "category": "cars",
+        "route": "cars"
+    },
+    {
+        "query": "What is the chassis for Raptor S?",
+        "category": "cars",
+        "route": "cars"
+    },
+    {
+        "query": "What is the top speed of Titan X7",
+        "category": "cars",
+        "route": "cars"
+    },
+    {
+        "query": "Which manufacturer assembled Aurora E?",
+        "category": "cars",
+        "route": "cars"
+    },
+    {
+        "query": "Tell me the manufacturer and the NCAP global rating of Titanium GT",
+        "category": "cars",
+        "route": "cars"
+    },
+    {
+        "query": "Who between Vortex X1 and Avalon S has the highest fuel consumption?",
+        "category": "cars",
+        "route": "cars"
+    },
+    {
+        "query": "Which cars were launched in 2022?",
+        "category": "cars",
+        "route": "cars"
+    },
+    {
+        "query": "Which vehicle produced by Pinnacle Vehicles has the lowest fuel consumption",
+        "category": "cars",
+        "route": "cars"
+    },
+    {
+        "query": "Who's the fastest between Ironclad T8 and Eclipse Z",
+        "category": "cars",
+        "route": "cars"
+    },
+    {
+        "query": "What is the capital of Beijing?",
+        "category": "countries",
+        "route": "countries"
+    },
+    {
+        "query": "Which rivers flow through Tokyo?",
+        "category": "countries",
+        "route": "countries"
+    },
+    {
+        "query": "What's the most common animal in Italy?",
+        "category": "countries",
+        "route": "countries"
+    },
+    {
+        "query": "Where is the capital Rome located?",
+        "category": "countries",
+        "route": "countries"
+    },
+    {
+        "query": "Where is located the 'Understand River'?",
+        "category": "countries",
+        "route": "countries"
+    },
+    {
+        "query": "What is it spoken in New Delhi?",
+        "category": "countries",
+        "route": "countries"
+    },
+    {
+        "query": "Where is Arabic spoken?",
+        "category": "countries",
+        "route": "countries"
+    },
+    {
+        "query": "Where does 'Over River' flow?",
+        "category": "countries",
+        "route": "countries"
+    },
+    {
+        "query": "In which place is the horse the most common animal?",
+        "category": "countries",
+        "route": "countries"
+    },
+    {
+        "query": "How many habitants does Egypt have?",
+        "category": "countries",
+        "route": "countries"
+    },
+    {
+        "query": "What is the boiling point of water?",
+        "category": "unrelated",
+        "route": null
+    },
+    {
+        "query": "Who wrote 'Hamlet'?",
+        "category": "unrelated",
+        "route": null
+    },
+    {
+        "query": "Who was the first person to walk on the moon?",
+        "category": "unrelated",
+        "route": null
+    },
+    {
+        "query": "How does photosynthesis work?",
+        "category": "unrelated",
+        "route": null
+    },
+    {
+        "query": "What is the tallest human in the world?",
+        "category": "unrelated",
+        "route": null
+    },
+    {
+        "query": "Explain the theory of relativity.",
+        "category": "unrelated",
+        "route": null
+    },
+    {
+        "query": "Who painted the Mona Lisa?",
+        "category": "unrelated",
+        "route": null
+    },
+    {
+        "query": "What are the primary colors?",
+        "category": "unrelated",
+        "route": null
+    },
+    {
+        "query": "How many planets are in our solar system?",
+        "category": "unrelated",
+        "route": null
+    },
+    {
+        "query": "What is the chemical symbol for Gold?",
+        "category": "unrelated",
+        "route": null
+    }
+]
